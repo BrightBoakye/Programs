@@ -1,2 +1,2 @@
 # Programs
-Automative or useful programs to help in reducing tedious tasks
+A basic stopwatch using Unix Epoch timing technique in python
